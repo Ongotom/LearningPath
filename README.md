@@ -20,8 +20,9 @@ Power BI:
 
 SQL: 
 [TrendyTech](https://www.youtube.com/watch?v=zAOUpVM6R6I&list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg),
-[DoFactory](https://www.dofactory.com/sql)
+[DoFactory](https://www.dofactory.com/sql),
+[Select Star](https://selectstarsql.com/)
 
 Excel:
 
-Power BI:
+Power BI: [Udemy](https://www.udemy.com/course/learn_power_bi_for_free/)
