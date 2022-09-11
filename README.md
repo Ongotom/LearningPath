@@ -26,3 +26,5 @@ SQL:
 Excel:
 
 Power BI: [Udemy](https://www.udemy.com/course/learn_power_bi_for_free/)
+
+Data Analysis: [Coursera](https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining)
