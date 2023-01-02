@@ -18,6 +18,8 @@ Power BI:
 
 |In Progress|
 
+BS Computer Science: [SNHU](https://www.snhu.edu)
+
 SQL: 
 [TrendyTech](https://www.youtube.com/watch?v=zAOUpVM6R6I&list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg),
 [DoFactory](https://www.dofactory.com/sql),
